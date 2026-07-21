@@ -1,4 +1,4 @@
-<h1 align="center">🏦 Python Bank Account (OOP)</h1>
+<h1 align="center">🏦 Conta Bancária Python (POO)</h1>
 
 <p align="center">
   💻 Projeto pessoal em Python para simulação de uma conta bancária <br>
